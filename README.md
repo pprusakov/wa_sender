@@ -18,8 +18,10 @@ Ensure your [Node.js](https://nodejs.org/en/) version is at least version 12.0
 
 ## Initialization
 
-1. Run the `index.js` file:
+1. In the `index.js` file, edit the `numbers` and `message` variables
+2. Run the command:
     ```bash
     node index.js
     ```
-2. After a QR code gets generated, scan it with your WhatsApp app
+3. After a QR code gets generated, scan it with your WhatsApp app
+4. Your messages shall be sent out, else you will catch an error
